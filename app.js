@@ -20,7 +20,7 @@ $(document).ready(function () {
         "width": "10%"
       })
     });
-// sdfgjkajk
+
     element.dblclick(function () {
       element.remove();
     });
